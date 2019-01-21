@@ -1,1 +1,1 @@
-# weather-app
+Weather application exercise for OAMK
